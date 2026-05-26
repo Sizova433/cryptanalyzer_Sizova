@@ -1,3 +1,4 @@
+package app;
 import controller.MenuController;
 
 public class Main {
