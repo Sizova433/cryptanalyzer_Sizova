@@ -1,3 +1,4 @@
+package controller;
 import service.BruteForceService;
 import service.FileService;
 import service.StatisticalAnalysisService;
